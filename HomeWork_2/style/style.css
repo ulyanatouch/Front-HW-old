@@ -1,0 +1,83 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  padding-left: 20px;
+}
+
+p {
+  font-size: 20px;
+  margin: 15px 50px;
+}
+
+ul {
+  padding-left: 90px;
+}
+
+table, tr, td {
+  border: 1px solid black;
+  margin-left: 50px;
+  line-height: 10px;
+}
+
+img {
+  height: 25px;
+  width: 25px;
+}
+
+/* h1 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.currency-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px auto;
+  max-width: 300px;
+}
+
+.currency-list li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.currency-symbol {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.currency-name {
+  font-weight: bold;
+} */
+
+/* tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+} */
+
+/* table {
+  border-collapse: collapse;
+  padding-inline: 30px;
+  margin: 20px 10px 20px 10px;
+} */
+
+/* table, td {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid black;
+  padding: 5px;
+} */
+
+/* table {
+  border: 1.5px solid gray;
+  
+}
+
+td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+} */
