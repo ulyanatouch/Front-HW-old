@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    /* 0px - вверх, низ */
+    /* 40px - лево, право */
+    padding: 100px 40px;
+}
+
+.main1 h1 {
+    text-align: left;
+
+}
+
+.main {
+    /* задали задний цвет єдементу */
+    background-color: #34495E;
+    /* сделали округление краев */
+    border-radius: 20px;
+    padding: 21px;
+    text-align: center;
+    color: antiquewhite;
+    margin: 20px 20px 20px 20px;
+}
+
+ul {
+    column-count: 2;
+}
